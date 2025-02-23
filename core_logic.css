@@ -294,3 +294,10 @@
 // Add ARIA labels - 2020-09-22 10:12:00
 // Fix nesting depth - 2021-05-27 10:08:00
 // Fix list markup - 2024-08-23 10:04:00
+
+:root {
+  --color-primary: #3b82f6;
+  --color-bg: #ffffff;
+  --color-text: #1e293b;
+  --radius: 0.5rem;
+}
