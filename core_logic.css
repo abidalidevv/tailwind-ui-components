@@ -365,3 +365,10 @@
   transition: opacity .2s;
 }
 .btn:hover { opacity: .85; }
+
+.container {
+  width: 100%;
+  max-width: 1280px;
+  margin-inline: auto;
+  padding-inline: 1rem;
+}
