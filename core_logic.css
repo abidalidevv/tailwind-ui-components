@@ -462,3 +462,10 @@
   --color-text: #1e293b;
   --radius: 0.5rem;
 }
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-bg: #0f172a;
+    --color-text: #e2e8f0;
+  }
+}
